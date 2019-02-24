@@ -1,5 +1,5 @@
 #write your code here
 
 def countdown
-  t =
+  t = 10
 end
